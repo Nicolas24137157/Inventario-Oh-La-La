@@ -1,0 +1,60 @@
+/* fieldset.fieldset1{
+    position: relative;
+    right: 100px;
+}
+
+legend.text-center.header1{
+    position: relative;
+    right: 259px;
+}
+
+textarea#message.form-control {
+    width: 600px;
+}
+
+input#fñname.form-control{
+    width: 200px;
+}
+
+/* input#lname.form-control{ 
+    width: 200px;
+    position: relative;
+    left: 250px;
+    bottom: 57px;
+} */
+
+/* button.btn.btn-primary.btn-lg3{
+    position: relative;
+    background-size: 40px;
+    right: 46%;
+    font-size:22px;
+}
+
+fieldset.fieldset2{
+    position: relative;
+    left: 550px;
+    bottom: 593px;
+}
+
+legend.text-center.header{
+    position: relative;
+    left: 80px;
+    font-size: 40px;
+} */
+
+fieldset.fieldset2{
+    margin-top: 42px;
+}
+
+#insumotitulo{
+    position: relative;
+    bottom: 40px;
+}
+
+/* #botonfinal{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 25px;
+    
+} */
+

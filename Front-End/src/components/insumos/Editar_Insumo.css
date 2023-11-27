@@ -1,0 +1,39 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+div.formulario {
+    
+    position: relative;
+    margin-left: 25%;
+    
+   
+    
+}
+
+button.btn.btn-primary.btn-lg1{
+    position: relative;
+    background-size: 40px;
+    right: 18%;
+    font-size:22px;
+}
+
+div.form-group{
+    margin: 20px;
+}
+
+legend.text-center.header{
+    margin-left: 6px;
+}
+
+.text-center{
+    margin-top: 20px;
+}
